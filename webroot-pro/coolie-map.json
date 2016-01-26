@@ -1,0 +1,49 @@
+{
+  "/year-month-date.html": {
+    "main": [
+      {
+        "src": "../webroot-dev/static/js/app/year-month-date.js",
+        "dest": "/static/js/app/a7cf45b293111cea21c02ba730b534aa.js",
+        "deps": [
+          "../webroot-dev/static/js/libs/year.js",
+          "../webroot-dev/static/js/libs/month.js",
+          "../webroot-dev/static/js/libs/date.js"
+        ]
+      }
+    ],
+    "async": [],
+    "js": [
+      {
+        "dest": "/static/js/4199dbc923054982882ff5afba82bdd4.js",
+        "deps": [
+          "../webroot-dev/static/js/coolie.js"
+        ]
+      }
+    ],
+    "css": [],
+    "res": []
+  },
+  "/year-month.html": {
+    "main": [
+      {
+        "src": "../webroot-dev/static/js/app/year-month.js",
+        "dest": "/static/js/app/7360332894b3009f2fdcccd54379c803.js",
+        "deps": [
+          "../webroot-dev/static/js/libs/year.js",
+          "../webroot-dev/static/js/libs/month.js"
+        ]
+      }
+    ],
+    "async": [],
+    "js": [
+      {
+        "dest": "/static/js/4199dbc923054982882ff5afba82bdd4.js",
+        "deps": [
+          "../webroot-dev/static/js/coolie.js"
+        ]
+      }
+    ],
+    "css": [],
+    "res": []
+  }
+}
