@@ -1,6 +1,4 @@
-define(function (require, exports, module) {
-    var year = require('../libs/year.js');
-    var month = require('../libs/month.js');
+var year = require('../libs/year.js');
+var month = require('../libs/month.js');
 
-    alert('today is ' + year() + '-' + month());
-});
+alert('today is ' + year() + '-' + month());

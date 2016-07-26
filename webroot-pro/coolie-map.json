@@ -2,8 +2,8 @@
   "/year-month-date.html": {
     "main": [
       {
-        "src": "../webroot-dev/static/js/app/year-month-date.js",
-        "dest": "/static/js/app/a7cf45b293111cea21c02ba730b534aa.js",
+        "src": "../webroot-dev/static/js/main/year-month-date.js",
+        "dest": "/static/js/main/c3c0e8c986b8dcdcfc3405f65f5b83ec.js",
         "deps": [
           "../webroot-dev/static/js/libs/year.js",
           "../webroot-dev/static/js/libs/month.js",
@@ -11,12 +11,11 @@
         ]
       }
     ],
-    "async": [],
     "js": [
       {
-        "dest": "/static/js/4199dbc923054982882ff5afba82bdd4.js",
+        "dest": "/static/js/0996319be2c4f9517575b54dcc4af897.js",
         "deps": [
-          "../webroot-dev/static/js/coolie.js"
+          "../webroot-dev/node_modules/coolie.js/coolie.js"
         ]
       }
     ],
@@ -26,20 +25,19 @@
   "/year-month.html": {
     "main": [
       {
-        "src": "../webroot-dev/static/js/app/year-month.js",
-        "dest": "/static/js/app/7360332894b3009f2fdcccd54379c803.js",
+        "src": "../webroot-dev/static/js/main/year-month.js",
+        "dest": "/static/js/main/ff3cb2ca5aafd9ec63e6c2efe56dcf78.js",
         "deps": [
           "../webroot-dev/static/js/libs/year.js",
           "../webroot-dev/static/js/libs/month.js"
         ]
       }
     ],
-    "async": [],
     "js": [
       {
-        "dest": "/static/js/4199dbc923054982882ff5afba82bdd4.js",
+        "dest": "/static/js/0996319be2c4f9517575b54dcc4af897.js",
         "deps": [
-          "../webroot-dev/static/js/coolie.js"
+          "../webroot-dev/node_modules/coolie.js/coolie.js"
         ]
       }
     ],
